@@ -26,3 +26,17 @@ h1 {
   text-align: center;
   color: red;
 }
+.hero-container {
+  height: 300px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
